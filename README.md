@@ -1,4 +1,4 @@
-# Where Does Extreme Humid Heat Hit Hardest, and How Will It Grow?
+# Projecting global Heat Index changes under CMIP6 warming scenarios
 
 ## Scientific Question
 
