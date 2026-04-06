@@ -24,7 +24,7 @@ HI = -42.379 + 2.04901523*T + 10.14333127*R - 0.22475541*T*R
      + 8.5282e-4*T*R² - 1.99e-7*T²*R²
 ```
 
-where T is air temperature in °F and R is relative humidity in %. The result is converted back to °C. The equation is valid when T ≥ 80°F (26.7°C); below this threshold, the Heat Index is set equal to the air temperature. Additional adjustments are applied following NOAA guidelines for low-humidity and high-humidity conditions.
+where T is air temperature (°F) and R is relative humidity (%). Results are converted to °C.
 
 ### Threshold Exceedance Analysis
 
